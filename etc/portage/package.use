@@ -1,23 +1,28 @@
-sys-libs/zlib minizip
+>=app-text/ghostscript-gpl-9.05-r2 cups
+>=dev-java/bcel-5.2-r2 findbugs
+>=dev-libs/boost-1.49.0-r1:0 python debug doc
+>=dev-python/PyQt4-4.9.6-r2 script
+>=dev-vcs/subversion-1.7.7 -dso
+>=media-libs/freetype-1.4_pre20080316-r2:1 kpathsea
+>=media-libs/gd-2.0.35-r3 fontconfig truetype jpeg png
+>=sys-cluster/openmpi-1.6.4 romio heterogeneous
+>=virtual/mpi-2.0-r1 romio
+app-doc/doxygen latex doc dot
 app-text/texlive extra humanities graphics epspdf tex4ht pstricks science
+dev-cpp/tbb doc examples debug
+dev-lang/R doc java
+dev-libs/quantlib doc examples
+dev-python/ipython doc examples matplotlib mongodb notebook octave
+dev-python/mpi4py doc examples
+dev-python/pandas R excel -doc examples
+dev-python/pyopencl examples
+dev-tex/feynmf doc
+dev-util/checkstyle test
+dev-util/intel-ocl-sdk tools
+dev-vcs/git subversion perl
+sci-libs/hdf5 -threads -cxx mpi -fortran
+sci-mathematics/octave doc gnuplot curl
+sci-physics/root -mpi openmp doc 
 sys-devel/llvm llvm-gcc
 sys-libs/glibc debug
-sci-physics/root -mpi openmp doc 
-app-doc/doxygen doc dot latex
-dev-cpp/tbb doc examples debug
->=media-libs/gd-2.0.35-r3 fontconfig
->=dev-libs/boost-1.49.0-r1:0 python debug doc
-dev-python/pyopencl examples
-dev-python/mpi4py doc examples
->=dev-java/bcel-5.2-r2 findbugs
-dev-util/checkstyle test
-sci-mathematics/octave doc gnuplot curl
-dev-vcs/git subversion perl
->=dev-vcs/subversion-1.7.7 -dso
->=media-libs/gd-2.0.35-r3 truetype jpeg png
->=dev-python/PyQt4-4.9.6-r2 script
-dev-util/intel-ocl-sdk tools
-dev-lang/R doc java
-dev-python/ipython doc examples matplotlib mongodb notebook octave
-dev-libs/quantlib doc examples
-dev-tex/feynmf doc
+sys-libs/zlib minizip
