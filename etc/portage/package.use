@@ -1,0 +1,23 @@
+sys-libs/zlib minizip
+app-text/texlive extra humanities graphics epspdf tex4ht pstricks science
+sys-devel/llvm llvm-gcc
+sys-libs/glibc debug
+sci-physics/root -mpi openmp doc 
+app-doc/doxygen doc dot latex
+dev-cpp/tbb doc examples debug
+>=media-libs/gd-2.0.35-r3 fontconfig
+>=dev-libs/boost-1.49.0-r1:0 python debug doc
+dev-python/pyopencl examples
+dev-python/mpi4py doc examples
+>=dev-java/bcel-5.2-r2 findbugs
+dev-util/checkstyle test
+sci-mathematics/octave doc gnuplot curl
+dev-vcs/git subversion perl
+>=dev-vcs/subversion-1.7.7 -dso
+>=media-libs/gd-2.0.35-r3 truetype jpeg png
+>=dev-python/PyQt4-4.9.6-r2 script
+dev-util/intel-ocl-sdk tools
+dev-lang/R doc java
+dev-python/ipython doc examples matplotlib mongodb notebook octave
+dev-libs/quantlib doc examples
+dev-tex/feynmf doc

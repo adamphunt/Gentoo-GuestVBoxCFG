@@ -1,0 +1,7 @@
+kde-base/dolphin semantic-desktop
+kde-base/kactivities semantic-desktop
+kde-base/kdebase-runtime-meta semantic-desktop
+kde-base/kdelibs semantic-desktop
+kde-base/kdepimlibs semantic-desktop
+kde-base/plasma-workspace semantic-desktop
+kde-base/pykde4 semantic-desktop

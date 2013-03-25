@@ -1,0 +1,2 @@
+>=app-crypt/mit-krb5-1.9
+=x11-base/xorg-server-1.12.99.903
