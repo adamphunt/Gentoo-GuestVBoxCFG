@@ -26,6 +26,7 @@ media-gfx/inkscape
 media-libs/opencv
 net-misc/dhcpcd
 sci-libs/gsl
+sci-libs/scikits_learn
 sci-libs/scipy
 sci-physics/root
 sys-apps/less
