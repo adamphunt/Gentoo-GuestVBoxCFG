@@ -26,3 +26,4 @@ sci-physics/root -mpi openmp doc
 sys-devel/llvm llvm-gcc
 sys-libs/glibc debug
 sys-libs/zlib minizip
+sci-libs/scikits_learn doc examples
